@@ -1,5 +1,5 @@
 // write code for Welcome component here
-import React from 'react';
+import React from "react";
 
 const Welcome = ({name}) => {
 return (
@@ -9,4 +9,5 @@ return (
 </p>
 );
 }
+export default Welcome;
 
